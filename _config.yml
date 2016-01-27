@@ -1,29 +1,41 @@
-name: TheRealMediaCompany
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.50183
 title: The Real Media Company
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7849463
+  brandStrength: 0.5017921
+  lightness: 0.1774193
+  brandColors:
+    - '#050505'
+    - '#435B78'
+    - '#C5C5C5'
+    - '#409CCC'
+    - '#F3C67F'
+  rhythmicContrast: 0.7992831
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: TheRealMediaCompany
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#323232'
-    - '#ffffff'
-    - '#a6a6a6'
-    - '#45b8e6'
-    - '#000000'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.50183
+layout_spectrum: 0.9982079
