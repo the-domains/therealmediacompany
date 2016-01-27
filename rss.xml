@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Real Media Company]]></title>
         <description><![CDATA[The Real Media Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/therealmediacompany/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 20:09:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 20:26:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therealmediacompany/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test</p>]]></description>
+            <link>https://thegrid.ai/therealmediacompany/0bf04f67-691f-4dba-9175-b7b16da27e34/index.html</link>
+            <guid isPermaLink="false">0bf04f67-691f-4dba-9175-b7b16da27e34</guid>
+            <pubDate>Wed, 27 Jan 2016 20:26:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28cf4786-fafa-4a58-9280-f563e2dbf41f.jpg">]]></description>
-            <link>undefined4870893b-0258-4b36-9a03-ad149bb3ea8f/index.html</link>
+            <link>https://thegrid.ai/therealmediacompany/4870893b-0258-4b36-9a03-ad149bb3ea8f/index.html</link>
             <guid isPermaLink="false">4870893b-0258-4b36-9a03-ad149bb3ea8f</guid>
             <pubDate>Wed, 27 Jan 2016 20:09:19 GMT</pubDate>
         </item>
