@@ -1,0 +1,28 @@
+name: TheRealMediaCompany
+favicon: null
+layout_spectrum: 0.11940120789222419
+typography_spectrum: 0.038446706254035234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3905902032274753
+  lightness: 0.06487623695284128
+  saturation: 0.38910229061730206
+  rhythmicContrast: 0.026329561602324247
+purpose: []
